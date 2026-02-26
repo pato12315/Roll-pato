@@ -1,0 +1,1 @@
+{"name": "rpg-game","version": "1.0.0","description": "A JavaScript RPG game","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"author": "pato12315","license": "ISC"}
